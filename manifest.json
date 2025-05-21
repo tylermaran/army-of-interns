@@ -1,0 +1,14 @@
+{
+  "name": "AI → the army of interns",
+  "description": "Replaces every standalone occurrence of “AI” on a page with “the army of interns”.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
