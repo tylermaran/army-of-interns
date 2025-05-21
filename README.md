@@ -1,10 +1,24 @@
-# A.I. => the army of interns (Chrome Extension)
+# "AI" => "the army of interns"
 
 Replaces every standalone occurrence of **“AI”** on any webpage with **“the army of interns”**
 
 I've always used the mental model of A.I. == army of interns. For any problem statement where someone is looking to use an LLM, it's good to ask "could you accomplish this task with an army of interns". If the answer is yes, then LLMs are probably a good tool!
 
 This extension helps take the ambiguity out of A.I. pitches. Plus it makes the internet a lot more fun!
+
+![image](https://github.com/user-attachments/assets/ab78bfce-2165-4384-86fd-2f9e32cb7a14)
+
+![image](https://github.com/user-attachments/assets/c13146bd-8d04-4964-a426-be2887166d61)
+
+![image](https://github.com/user-attachments/assets/dad11f9c-07c3-43e6-b7bb-a2bba58096f8)
+
+<img width="1072" alt="image" src="https://github.com/user-attachments/assets/4ca0d517-3a81-4a29-ad88-7167a363aaf4" />
+
+![image](https://github.com/user-attachments/assets/5d93246e-1bec-4989-b95f-fcdb368a7d5a)
+
+![image](https://github.com/user-attachments/assets/093dbd59-09ac-4234-b7f3-4ca29d7c0ad0)
+
+
 
 ---
 
