@@ -1,6 +1,6 @@
-# "AI" => "the army of interns"
+# "A.I." => "the army of interns"
 
-Replaces every standalone occurrence of **“AI”** on any webpage with **“the army of interns”**
+Replaces every standalone occurrence of **“A.I.”** on any webpage with **“the army of interns”**
 
 I've always used the mental model of A.I. == army of interns. For any problem statement where someone is looking to use an LLM, it's good to ask "could you accomplish this task with an army of interns". If the answer is yes, then LLMs are probably a good tool!
 
